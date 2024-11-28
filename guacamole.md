@@ -1,7 +1,7 @@
 #Guacamole 
 ## Incredients
 * avocado
-* lemon
+* lime
 * salt
 ## Instructions
 
