@@ -5,5 +5,6 @@
 * salt 1€
 * secret ingredient
 *tomato
+* chilli
 ## Instructions
 
